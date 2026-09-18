@@ -1289,23 +1289,4 @@ Before completing the practical, confirm that:
 
 ---
 
-## 20. Timing Plan for the 2-Hour Session
-
-> **Editorial note:** This timing plan is reconstructed, not a verbatim copy of the original conversation. The suggested times within the original exercises total 130 minutes before setup and submission. Use the consolidated schedule below to fit the practical into 120 minutes.
-
-| Section | Approx. Time |
-| --- | ---: |
-| Environment and GitHub setup | 5 min |
-| Exercise 01 – Arrays | 15 min |
-| Exercise 02 – Sets | 10 min |
-| Exercise 03 – Dictionaries and collection choice | 15 min |
-| Exercise 04 – `if / else if / else` | 10 min |
-| Exercise 05 – `switch` and ranges | 10 min |
-| Exercise 06 – Loops, `break`, and `continue` | 15 min |
-| Integrated example and knowledge check | 5 min |
-| Student Performance Manager final challenge | 30 min |
-| Submission and checklist | 5 min |
-| **Total** | **120 min** |
-
-The additional challenge is optional for students who finish early.
 
