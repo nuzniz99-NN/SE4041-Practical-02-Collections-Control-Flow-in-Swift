@@ -3,7 +3,6 @@
 
 **Duration:** 2 Hours  
 **Module:** SE4041 – Mobile Application Design & Development  
-**Practical Type:** Self-Guided  
 **Language:** Swift
 
 ---
